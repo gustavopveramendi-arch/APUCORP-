@@ -1,0 +1,6 @@
+{
+  "name": "APUCORPCAPACITA",
+  "description": "Sistema integrado de capacitación de seguridad APUCORP con generación de cuestionarios interactivos por Inteligencia Artificial y seguimiento de agentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
